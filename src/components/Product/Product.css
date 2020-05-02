@@ -1,0 +1,19 @@
+.product-wrapper{
+    display:flex;
+    border-bottom:1px solid lightgray;
+    padding:10px 0px;
+}
+.left-side{
+    margin-right:15px;
+}
+.right-side{}
+.right-side .p-title{
+    color:blue;
+}
+.right-side .shoping-btn{
+    background:orange;
+    padding:5px 50px;
+    border:1px solid black;
+    border-radius:5px;
+    cursor:pointer;
+}
